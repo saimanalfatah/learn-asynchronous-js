@@ -1,0 +1,22 @@
+[
+    {
+        "nama": "Mane",
+        "negara": "Senegal",
+        "email": "sadiomane@email.com"
+    },
+    {
+        "nama": "Firmino",
+        "negara": "Brazil",
+        "email": "firmino@email.com"
+    },
+    {
+        "nama": "Salah",
+        "negara": "Mesir",
+        "email": "salah@email.com"
+    },
+    {
+        "nama": "Thiago",
+        "negara": "Spanyol",
+        "email": "thiago@email.com"
+    }
+]
